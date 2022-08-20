@@ -1,0 +1,6 @@
+# Ignore VSCode configs
+.vscode/
+
+#Ignore Dolphin confige
+.direcory
+
